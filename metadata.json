@@ -1,59 +1,14 @@
 {
-  "version": 3,
+  "version": 1781119920,
   "resources": {
-    "catalogo.db.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "af72a2fd992a5a6274035137dd5421f029683c61e50d0d5936bf7fc264a7555e",
-      "size": 55951414,
-      "original_size": 263843840,
-      "github_repo": "MakaiForger/makaiforger-catalogo-db",
-      "gitlab_project_id": 83081380
-    },
-    "proton_data.db.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "d53ba0556ad25195441cfd4f8cb7dba1a7e5c4b40dab1715c4d4439b00adb111",
-      "size": 77782443,
-      "original_size": 293851136,
-      "github_repo": "MakaiForger/makaiforger-proton-data-db",
-      "gitlab_project_id": 83081381
-    },
     "fork_catalog.db.gz": {
-      "version": 2,
-      "tag": "v0.0.2",
-      "sha256": "41c27c99f84cc20666d156b6f8372b095d288d506896280339a21257149505b3",
-      "size": 1809518,
-      "original_size": 12316672,
+      "version": 3,
+      "tag": "v0.0.3",
+      "sha256": "4149ff952bab74dde1cc101644ede888f3f374d7d51c42e4715135d7dd019b22",
+      "size": 2504161,
+      "original_size": 15134720,
       "github_repo": "MakaiForger/makaiforger-fork-catalog-data",
       "gitlab_project_id": 83110945
-    },
-    "releases.tar.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "91b6ac8de9455969fab85993e431ee7a203841ec313b107f9ba2443dd163c2b4",
-      "size": 310331,
-      "original_size": 0,
-      "github_repo": "MakaiForger/makaiforger-releases-data",
-      "gitlab_project_id": 83110949
-    },
-    "sources.tar.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e",
-      "size": 45,
-      "original_size": 0,
-      "github_repo": "MakaiForger/makaiforger-sources",
-      "gitlab_project_id": 83081384
-    },
-    "installer-api.tar.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e",
-      "size": 45,
-      "original_size": 0,
-      "github_repo": "MakaiForger/makaiforger-installer-api",
-      "gitlab_project_id": 83101354
     }
   }
 }
