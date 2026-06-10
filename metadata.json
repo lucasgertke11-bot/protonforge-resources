@@ -1,19 +1,39 @@
 {
-  "version": 3,
+  "version": 1781115606,
   "resources": {
+    "catalogo.db.gz": {
+      "version": 2,
+      "tag": "v2.0.0",
+      "sha256": "af72a2fd992a5a6274035137dd5421f029683c61e50d0d5936bf7fc264a7555e",
+      "size": 55951414,
+      "original_size": 263843840,
+      "github_repo": "lucasgertke11-bot/catalogo-db",
+      "gitlab_project_id": 0
+    },
+    "proton_data.db.gz": {
+      "version": 2,
+      "tag": "v2.0.0",
+      "sha256": "d53ba0556ad25195441cfd4f8cb7dba1a7e5c4b40dab1715c4d4439b00adb111",
+      "size": 77782443,
+      "original_size": 293851136,
+      "github_repo": "lucasgertke11-bot/proton-data-db",
+      "gitlab_project_id": 0
+    },
     "fork_catalog.db.gz": {
       "version": 2,
-      "sha256": "12ba679d33bec3aec2c34cd7c9a2566d24278888004a678c3878a8bef4d35560",
-      "size": 1806126,
-      "original_size": 12296192,
+      "tag": "v2.0.0",
+      "sha256": "41c27c99f84cc20666d156b6f8372b095d288d506896280339a21257149505b3",
+      "size": 1809518,
+      "original_size": 12316672,
       "github_repo": "lucasgertke11-bot/fork-catalog-data",
       "gitlab_project_id": 83110945
     },
     "releases.tar.gz": {
       "version": 2,
-      "sha256": "11b2aab6e204c6dbce77d7e9fcd51f96efa4718a247b4d25909e49d6ce57598e",
-      "size": 520578,
-      "original_size": 6144000,
+      "tag": "v2.0.0",
+      "sha256": "91b6ac8de9455969fab85993e431ee7a203841ec313b107f9ba2443dd163c2b4",
+      "size": 310331,
+      "original_size": 0,
       "github_repo": "lucasgertke11-bot/releases-data",
       "gitlab_project_id": 83110949
     }
