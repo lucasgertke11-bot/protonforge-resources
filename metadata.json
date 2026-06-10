@@ -1,5 +1,5 @@
 {
-  "version": 1781120306,
+  "version": 1781122534,
   "resources": {
     "catalogo.db.gz": {
       "version": 1,
@@ -20,11 +20,11 @@
       "gitlab_project_id": 83081381
     },
     "fork_catalog.db.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "e6ccbb07b77df3cecc47a7c91bd90ff8db8ef8cf6a0dd6ab1bd0f15ca83fa663",
-      "size": 3324511,
-      "original_size": 15417344,
+      "version": 10000,
+      "tag": "v1.0.0",
+      "sha256": "d6c9cb7feafd1155cab2955f342f9833e0cc3924b0f6dd8808dca699eb805ae3",
+      "size": 1410944,
+      "original_size": 12886016,
       "github_repo": "MakaiForger/makaiforger-fork-catalog-data",
       "gitlab_project_id": 83110945
     },
