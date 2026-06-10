@@ -37,15 +37,6 @@
       "github_repo": "MakaiForger/makaiforger-releases-data",
       "gitlab_project_id": 83110949
     },
-    "sources.tar.gz": {
-      "version": 1,
-      "tag": "v0.0.1",
-      "sha256": "c38f1059ffbe62f8cf6a9b203387184d5a93ab65dc2c6e469c136c3355f73ff7",
-      "size": 3576269,
-      "original_size": 0,
-      "github_repo": "MakaiForger/makaiforger-sources",
-      "gitlab_project_id": 83081384
-    },
     "installer-api.tar.gz": {
       "version": 1,
       "tag": "v0.0.1",
