@@ -1,12 +1,12 @@
 {
-  "version": 1781119920,
+  "version": 1781120047,
   "resources": {
     "fork_catalog.db.gz": {
       "version": 3,
       "tag": "v0.0.3",
-      "sha256": "4149ff952bab74dde1cc101644ede888f3f374d7d51c42e4715135d7dd019b22",
-      "size": 2504161,
-      "original_size": 15134720,
+      "sha256": "9735536582e8f6bda953d2d1b725c63aa12cd79dc502547c4657695ff97f5bb3",
+      "size": 3085863,
+      "original_size": 15405056,
       "github_repo": "MakaiForger/makaiforger-fork-catalog-data",
       "gitlab_project_id": 83110945
     }
