@@ -29,10 +29,10 @@
       "gitlab_project_id": 83110945
     },
     "installer-api.tar.gz": {
-      "version": 3,
-      "tag": "v0.0.2",
-      "sha256": "785957b287d3bb72533da1c21e8ed8eb1e3dbab2291c4d660524d1554d14a63d",
-      "size": 9275,
+      "version": 4,
+      "tag": "v0.0.3",
+      "sha256": "b9950182666fa41b6dcbcf3b349c625e1da971ad10c88aa6b7324ce54c1ac046",
+      "size": 12256,
       "original_size": 0,
       "github_repo": "MakaiForger/makaiforger-installer-api",
       "gitlab_project_id": 83101354
