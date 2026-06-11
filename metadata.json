@@ -1,0 +1,50 @@
+{
+  "version": 1781120306,
+  "resources": {
+    "catalogo.db.gz": {
+      "version": 1,
+      "tag": "v0.0.1",
+      "sha256": "af72a2fd992a5a6274035137dd5421f029683c61e50d0d5936bf7fc264a7555e",
+      "size": 55951414,
+      "original_size": 263843840,
+      "github_repo": "MakaiForger/makaiforger-catalogo-db",
+      "gitlab_project_id": 83081380
+    },
+    "proton_data.db.gz": {
+      "version": 1,
+      "tag": "v0.0.1",
+      "sha256": "d53ba0556ad25195441cfd4f8cb7dba1a7e5c4b40dab1715c4d4439b00adb111",
+      "size": 77782443,
+      "original_size": 293851136,
+      "github_repo": "MakaiForger/makaiforger-proton-data-db",
+      "gitlab_project_id": 83081381
+    },
+    "fork_catalog.db.gz": {
+      "version": 1,
+      "tag": "v0.0.1",
+      "sha256": "1cbbf2d469f893f199a93f12663a48bf2849615d4b1dc623615f942a1c10a57d",
+      "size": 35020,
+      "original_size": 319488,
+      "github_repo": "MakaiForger/makaiforger-fork-catalog-data",
+      "gitlab_project_id": 83110945
+    },
+    "installer-api.tar.gz": {
+      "version": 5,
+      "tag": "v0.0.4",
+      "sha256": "5b6eee172c131950cff2cfc45edf63625b48456c82106926a64b068a95741aee",
+      "size": 12278,
+      "original_size": 0,
+      "github_repo": "MakaiForger/makaiforger-installer-api",
+      "gitlab_project_id": 83101354
+    },
+    "game_dlls.db.gz": {
+      "version": 1,
+      "tag": "v0.0.1",
+      "sha256": "c6adfbb599b6f441c07854a06b71b1cc2a41bc978c66e58a4c2f133b27e37746",
+      "size": 2947,
+      "original_size": 20480,
+      "github_repo": "MakaiForger/makaiforger-game-dlls-data",
+      "gitlab_project_id": 83123076
+    }
+  }
+}
