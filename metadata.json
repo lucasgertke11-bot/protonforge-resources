@@ -1,5 +1,5 @@
 {
-  "version": 1781120306,
+  "version": 1781225182,
   "resources": {
     "catalogo.db.gz": {
       "version": 1,
@@ -29,10 +29,10 @@
       "gitlab_project_id": 83110945
     },
     "installer-api.tar.gz": {
-      "version": 6,
-      "tag": "v0.0.5",
-      "sha256": "a89ed737dd9aa776a4d361d1433dfa217123e0ff132b42c58d1aab04a85c3e18",
-      "size": 12328,
+      "version": 7,
+      "tag": "v0.0.6",
+      "sha256": "a4ffda808f70007fb86ec5c668b4fde5b921a71dc44af60834b9235ae99f1ae5",
+      "size": 12747,
       "original_size": 0,
       "github_repo": "MakaiForger/makaiforger-installer-api",
       "gitlab_project_id": 83101354
